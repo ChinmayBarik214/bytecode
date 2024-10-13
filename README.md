@@ -107,7 +107,7 @@ if __name__ == "__main__":
 
 # Exercise: Linked List
 
-1. In [LinkedList class](linked_list.py) that we implemented in lecture 1 add the following two methods,
+1. In the above [LinkedList class](linked_list.py) add the following two methods,
 ```py
 def insert_after_value(self, data_after, data_to_insert):
     # Search for first occurance of data_after value in linked list
